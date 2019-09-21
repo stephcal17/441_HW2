@@ -1,4 +1,3 @@
-// Caleb Stephens
 // CSCE 441-500
 #define GLEW_STATIC
 #include <GL/glew.h>
